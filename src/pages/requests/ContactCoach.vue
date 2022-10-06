@@ -1,5 +1,5 @@
 <script setup></script>
 <template>
-	<h1>Find a Coach</h1>
+	<h2>Contact Coach</h2>
 </template>
 <style scoped></style>
